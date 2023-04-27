@@ -8,8 +8,8 @@
 # print("son2 = ",son2)
 
 
-# name = "Abdulaziz Komilov"
-# name2 = "Ulugbek Jamolov"
+# name = "Sherbekov Ali"
+# name2 = Abduhalilov Sordor"
 # print("Do`stimning ismi - ", name2)
 # print("Mening ismim -", name)
 
@@ -18,8 +18,8 @@
 # savol = input("Ismingizni kiriting>>>  ")
 # print("Salom ",savol)
 
-# name = "Abdulaziz Komilov"
-# age = 20
+# name = "Sherbekov Ali"
+# age = 17
 # print(name,", yoshim", age,"da")
 
 # a = 5
