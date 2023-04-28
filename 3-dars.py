@@ -11,13 +11,13 @@
 # DM = 77
 
 
-import math
+# import math
 
 # a = math.pi
 # print(a)
 
-a = 9
-b = 49
+# a = 9
+# b = 49
 
 # print(math.sqrt(b)) #ildizdan chiqaradi
 
@@ -29,6 +29,6 @@ b = 49
 
 # print(math.factorial(5))  #1*2*3*4*5
 
-# print(math.log(125, 5))  #(5*5*5) == 5**3
+# print(math.log(125, 5))  #(5*5*5) == 5**
 
-print(math.cos(180))
+# print(math.cos(180))
